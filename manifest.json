@@ -1,11 +1,32 @@
 {
   "packs": [
     {
-      "id": "gukga9-9-2025",
+      "id": "gukga7-7",
+      "version": 2,
+      "file": "gukga7-7-v2.json",
+      "sha256": "7d55db6b0bb3319fbfc3fae806eea48a484dfe611fa4f15094d0470da98fdea8",
+      "questionCount": 14626
+    },
+    {
+      "id": "gukga9-9",
       "version": 1,
-      "file": "gukga9-9-2025-v1.json",
-      "sha256": "4b1825bc798f26a7509bfa51dfde2a899e716f7639c3c442a04a04ffe22ce2cd",
-      "questionCount": 0
+      "file": "gukga9-9-v1.json",
+      "sha256": "5c93408fc48bcbfaabcd7e14982ffff7263960796a086a93548579a15fff71b8",
+      "questionCount": 11975
+    },
+    {
+      "id": "jibang7-7",
+      "version": 1,
+      "file": "jibang7-7-v1.json",
+      "sha256": "7ca302edac46aeff59da5753c4d481c5a0a2376de107ce3f9815cdcdf01dbb08",
+      "questionCount": 3459
+    },
+    {
+      "id": "jibang9-9",
+      "version": 1,
+      "file": "jibang9-9-v1.json",
+      "sha256": "dcf812112f56a9562b867beacb44f9692ff9a86637e434c5a84b614ecbccc97d",
+      "questionCount": 9232
     }
   ]
 }
